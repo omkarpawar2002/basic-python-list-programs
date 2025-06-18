@@ -6,13 +6,15 @@ This repository contains a collection of beginner-level Python programs focusing
 
 ## 🧾 Sample Programs
 
-| No. | Program Title                | File Name               |
-|-----|------------------------------|--------------------------|
-| 01  | Append an Item to a List     | `01_append_item.py`      |
-| 02  | Access List Index and Values | `02_access_by_index.py`  |
-| 03  | Add Two Lists                | `03_add_two_lists.py`    |
+All examples are included in a **single file**: `list_examples.py`.
 
-> 🔽 More examples available inside the `programs/` folder.
+| No. | Program Title                |
+|-----|------------------------------|
+| 01  | Append an Item to a List     |
+| 02  | Access List Index and Values |
+| 03  | Add Two Lists                |
+
+> 🔽 More examples are available inside `list_examples.py`.
 
 ---
 
@@ -28,14 +30,11 @@ This repository contains a collection of beginner-level Python programs focusing
 
 4. Run any Python program from the programs folder:
     ```bash
-   python programs/01_append_item.py
+   python list_examples.py
 
 📁 Folder Structure
  ```bash
 basic-python-list-programs/
-├── programs/
-│   ├── 01_append_item.py
-│   ├── 02_access_by_index.py
-│   ├── 03_add_two_lists.py
-│   └── ... more files
+├── list_examples.py
 └── README.md
+
