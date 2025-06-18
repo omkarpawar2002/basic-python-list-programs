@@ -21,3 +21,7 @@ This repository contains a collection of beginner-level Python programs focusing
 1. Clone this repository:
    ```bash
    git clone https://github.com/omkarpawar2002/basic-python-list-programs.git
+
+cd basic-python-list-programs
+
+
