@@ -23,12 +23,15 @@ This repository contains a collection of beginner-level Python programs focusing
    git clone https://github.com/omkarpawar2002/basic-python-list-programs.git
 
 2. Navigate to the project folder:
+    ```bash
    cd basic-python-list-programs
 
-3. Run any Python program from the programs folder:
+4. Run any Python program from the programs folder:
+    ```bash
    python programs/01_append_item.py
 
 📁 Folder Structure
+ ```bash
 basic-python-list-programs/
 ├── programs/
 │   ├── 01_append_item.py
