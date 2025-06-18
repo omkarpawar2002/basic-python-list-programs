@@ -64,4 +64,4 @@ A total of **29 Python list examples**, covering:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/basic-python-list-programs.git
+   git clone https://github.com/omkarpawar2002/basic-python-list-programs.git
